@@ -2,7 +2,6 @@
     "name": "Codespaces Go Template Repository",
     "extensions": [
         "coenraads.bracket-pair-colorizer-2",
-        "eamodio.gitlens",
         "github.vscode-pull-request-github",
         "ms-azuretools.vscode-docker",
         "ms-vsliveshare.vsliveshare",
